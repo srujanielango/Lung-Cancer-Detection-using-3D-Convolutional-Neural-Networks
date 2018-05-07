@@ -1,4 +1,4 @@
-# Implementing 3D convolutional Neural Network for Lung Cancer Detection
+# Implementing 3D CNN for Lung Cancer Detection
 
 •	Download and install CUDA such that GPU can be utilized for processing on data and this speeds up training by a considerate amount of time. Also Download CUDNN and copy the contents of the folder to the respective contents in the CUDA folder
 
