@@ -1,7 +1,9 @@
-# Steps to implement 3D convolutional Neural Network for Lung Cancer Detection
+# Implementing 3D convolutional Neural Network for Lung Cancer Detection
 
 •	Download and install CUDA such that GPU can be utilized for processing on data and this speeds up training by a considerate amount of time. Also Download CUDNN and copy the contents of the folder to the respective contents in the CUDA folder
+
 •	Install anaconda with python 3.5
+
 •	Create a conda environment in command prompt and name it as tensorflow gpu. Follow instructions in this page to setup tensorflow gpu for the system: https://www.tensorflow.org/install/install_windows 
 •	Activate the environment
 •	Import all the necessary libraries specified below 
